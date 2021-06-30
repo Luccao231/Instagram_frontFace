@@ -1,0 +1,83 @@
+body{
+    font-family: sans-serif;
+    font-size: 14px;
+    background: #fcfcfc;
+    text-align: center;
+    padding-top: 100px;
+}
+
+body a{
+    text-decoration: none;
+    color: #0095f6;
+}
+
+main{
+    display: inline-flex;
+}
+
+/*.phone{}*/
+
+.entrance{
+    padding-left: 30px;
+    padding-top: 40px;
+}
+
+.boxTop{
+    padding: 10px 60px 10px;
+    text-align: center;
+    background: white;
+    border: 1px solid rgb(211, 209, 209);
+    
+}
+
+#logo_Escrita{
+    width: 200px;
+}
+
+#foto_Usuario{
+    margin-top: 5px;
+    border-radius: 100%;
+    padding-top: 2px;
+    height: 80px;
+    
+}
+
+#button_Continuar{
+    margin-top: 10px;
+    background: #0095f6;
+    color: #ffffff;
+    height: 30px;
+    width: 185px;
+    font-weight: bold;
+    border: 2px solid #0095f6;
+    border-radius: 3px;
+}
+
+.boxDown{
+    text-align: center;
+    padding-top: 10px;
+    border: 1px solid rgb(211, 209, 209);
+    margin-top: 15px;
+}
+
+#p_color{
+    font-size: 13px;
+    color: grey;
+}
+
+.boxFooter{
+    text-align: center;
+    padding-top: 10px;
+}
+
+#logo_Play{
+    width: 120px;
+    height: 37px;
+    padding: 0px 3px;
+}
+
+#logo_App{
+    width: 120px;
+    height: 37px;
+    padding: 0px 3px;
+}
